@@ -1,3 +1,9 @@
+#useful links 
+
+https://tailwindcss.com/docs/guides/create-react-app
+https://github.com/moneshvenkul/my-blog-front-back-end/blob/master/my-blog/src/App.js
+https://docs.google.com/spreadsheets/d/1DmnsZh1TBd4qxhIHWxhMU8YyIr-78jRk-u0Z6jTwxC4/edit#gid=0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
